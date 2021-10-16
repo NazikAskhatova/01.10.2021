@@ -1,0 +1,72 @@
+#div {
+    background-image: url(./hey1.jpg);
+    height: 300;
+    margin-bottom: 100px;
+}
+
+#div-2 {
+    background-image: url(./hey.jpg);
+    height: 300px;
+    margin: 100px;
+
+}
+
+#div3 {
+    background-image: url(./851156b7ca082dd3f992cf84cb01870b.jpg);
+    height: 300px;
+    margin: 100px;
+    background-repeat: no-repeat;
+}
+
+#div4 {
+    background-image: url(./hey9.jpg);
+    height: 400px;
+    margin: 100px;
+}
+
+#div5 {
+    background-image: url(./hey8.jpg);
+    height: 500px;
+    margin: 100px;
+}
+
+#div6 {
+    background-image: url(./hey7.jpg);
+    height: 300px;
+    margin: 100px;
+}
+
+#div7 {
+    background-image: url(./hey1.jpg);
+    height: 300px;
+    margin: 100px;
+}
+
+#div8 {
+    background-image: url(./hey3.jpg);
+    margin: 50px;
+    height: 600px;
+    width: 1200px;
+}
+
+#div9 {
+    background-image: url(./eva.jpg);
+    height: 400px;
+    padding: 50px;
+    text-align: center;
+    background-position: center;
+    background-repeat: repeat-x;
+}
+
+#div10 {
+    background-image: url(./hey7.jpg);
+    height: 300px;
+    margin: 100px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: repeat-y;
+    background-position: left;
+    color: bisque;
+
+}
+

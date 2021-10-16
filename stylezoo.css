@@ -1,0 +1,17 @@
+#zoo {
+    background-image: url(./house.webp);
+    color: white;
+    padding-left: 200px;
+    padding-top: 300px;
+    padding-bottom: 100px;
+    padding-right: 200px;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 100px;
+    margin-right: 0px;
+    width: 100%;
+    background-size: 1000px cover;
+}
+
+

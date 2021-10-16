@@ -1,0 +1,32 @@
+
+
+img {
+    border: 5px solid rgb(7, 5, 48);
+    padding: 10px;
+}
+
+blockquote {
+    border: 5px dashed rgb(4, 10, 39);
+    margin: 0;
+    float: left;
+    background-color: darkslateblue;
+    width: 150px;
+    margin-right: 20px;
+    border-radius: 25px;
+}
+
+#heart {
+    float: left;
+    margin-right: 20px;
+}
+
+#love {
+    float: right;
+    margin-left: 20px;
+}
+
+
+body {
+margin-left: 250px;
+margin-right: 250px;  
+}

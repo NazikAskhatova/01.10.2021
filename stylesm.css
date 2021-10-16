@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+  }
+div {
+    background-image: url(./smile.jpg), url(./eva.jpg) ;
+    background-size: 50px, cover;
+    width: 300px;
+    height: 250px;
+    border: 3px solid black;
+    margin: 10px;
+}
+
+  #example-1 {
+      background-image: url(./smile.jpg), url(./eva.jpg) ;
+      background-repeat: repeat;
+
+  }
+
+  #example-2 {
+      background-image: url(./smile.jpg), url(./eva.jpg);
+      background-repeat: repeat-x, no-repeat;
+  }
+
+  #example-3 {
+      background-image: url(./smile.jpg), url(./eva.jpg);
+      background-repeat: repeat-y;
+  }
+
+  #example-4 {
+      background-image: url(./smile.jpg), url(./eva.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+  }
+
+  #example-5 {
+      background-image: url(./smile.jpg), url(./eva.jpg);
+      background-repeat: no-repeat;
+      background-position: left;
+  }
+
+  #example-6 {
+      background-image: url(./smile.jpg), url(./eva.jpg);
+      background-repeat: no-repeat;
+      background-position: right;
+  }
+
+  #example-7 {
+      background-image: url(./smile.jpg), url(./eva.jpg);
+      background-repeat: no-repeat;
+      background-position: top;
+  }
+
+  #example-8 {
+      background-image: url(./smile.jpg), url(./eva.jpg);
+      background-repeat: no-repeat;
+      background-position: bottom;
+  }
